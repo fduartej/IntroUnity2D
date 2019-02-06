@@ -11,3 +11,5 @@ Este es el primer tutorial para como programar en unity usando visual studio com
 7. Te pedira que instales el net framework.
 
 https://www.gameart2d.com/the-robot---free-sprites.html
+
+https://retrostylegames.com/portfolio/free-3d-model-of-pirate-character-shipyard-master/
