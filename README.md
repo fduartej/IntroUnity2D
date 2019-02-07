@@ -17,3 +17,5 @@ https://retrostylegames.com/portfolio/free-3d-model-of-pirate-character-shipyard
 https://freesound.org/home/
 
 https://www.piskelapp.com
+
+https://docs.unity3d.com/Manual/
