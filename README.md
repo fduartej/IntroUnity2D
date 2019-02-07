@@ -13,3 +13,7 @@ Este es el primer tutorial para como programar en unity usando visual studio com
 https://www.gameart2d.com/the-robot---free-sprites.html
 
 https://retrostylegames.com/portfolio/free-3d-model-of-pirate-character-shipyard-master/
+
+https://freesound.org/home/
+
+https://www.piskelapp.com
